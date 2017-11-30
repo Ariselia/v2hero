@@ -5,6 +5,3 @@ import "fmt"
 func main() {
    fmt.Println("Hello, World!")
 }
-
-
-// test to trigger Ci
